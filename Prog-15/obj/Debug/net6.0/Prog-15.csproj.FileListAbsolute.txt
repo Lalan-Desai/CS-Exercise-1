@@ -1,0 +1,15 @@
+C:\Users\lalan\source\repos\Prog-15\bin\Debug\net6.0\Prog-15.exe
+C:\Users\lalan\source\repos\Prog-15\bin\Debug\net6.0\Prog-15.deps.json
+C:\Users\lalan\source\repos\Prog-15\bin\Debug\net6.0\Prog-15.runtimeconfig.json
+C:\Users\lalan\source\repos\Prog-15\bin\Debug\net6.0\Prog-15.dll
+C:\Users\lalan\source\repos\Prog-15\bin\Debug\net6.0\Prog-15.pdb
+C:\Users\lalan\source\repos\Prog-15\obj\Debug\net6.0\Prog-15.csproj.AssemblyReference.cache
+C:\Users\lalan\source\repos\Prog-15\obj\Debug\net6.0\Prog-15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalan\source\repos\Prog-15\obj\Debug\net6.0\Prog-15.AssemblyInfoInputs.cache
+C:\Users\lalan\source\repos\Prog-15\obj\Debug\net6.0\Prog-15.AssemblyInfo.cs
+C:\Users\lalan\source\repos\Prog-15\obj\Debug\net6.0\Prog-15.csproj.CoreCompileInputs.cache
+C:\Users\lalan\source\repos\Prog-15\obj\Debug\net6.0\Prog-15.dll
+C:\Users\lalan\source\repos\Prog-15\obj\Debug\net6.0\refint\Prog-15.dll
+C:\Users\lalan\source\repos\Prog-15\obj\Debug\net6.0\Prog-15.pdb
+C:\Users\lalan\source\repos\Prog-15\obj\Debug\net6.0\Prog-15.genruntimeconfig.cache
+C:\Users\lalan\source\repos\Prog-15\obj\Debug\net6.0\ref\Prog-15.dll

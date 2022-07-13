@@ -1,0 +1,15 @@
+C:\Users\lalan\source\repos\Prog-13\bin\Debug\net6.0\Prog-13.exe
+C:\Users\lalan\source\repos\Prog-13\bin\Debug\net6.0\Prog-13.deps.json
+C:\Users\lalan\source\repos\Prog-13\bin\Debug\net6.0\Prog-13.runtimeconfig.json
+C:\Users\lalan\source\repos\Prog-13\bin\Debug\net6.0\Prog-13.dll
+C:\Users\lalan\source\repos\Prog-13\bin\Debug\net6.0\Prog-13.pdb
+C:\Users\lalan\source\repos\Prog-13\obj\Debug\net6.0\Prog-13.csproj.AssemblyReference.cache
+C:\Users\lalan\source\repos\Prog-13\obj\Debug\net6.0\Prog-13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalan\source\repos\Prog-13\obj\Debug\net6.0\Prog-13.AssemblyInfoInputs.cache
+C:\Users\lalan\source\repos\Prog-13\obj\Debug\net6.0\Prog-13.AssemblyInfo.cs
+C:\Users\lalan\source\repos\Prog-13\obj\Debug\net6.0\Prog-13.csproj.CoreCompileInputs.cache
+C:\Users\lalan\source\repos\Prog-13\obj\Debug\net6.0\Prog-13.dll
+C:\Users\lalan\source\repos\Prog-13\obj\Debug\net6.0\refint\Prog-13.dll
+C:\Users\lalan\source\repos\Prog-13\obj\Debug\net6.0\Prog-13.pdb
+C:\Users\lalan\source\repos\Prog-13\obj\Debug\net6.0\Prog-13.genruntimeconfig.cache
+C:\Users\lalan\source\repos\Prog-13\obj\Debug\net6.0\ref\Prog-13.dll
