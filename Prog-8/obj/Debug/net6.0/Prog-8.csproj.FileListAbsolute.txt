@@ -1,0 +1,15 @@
+C:\Users\lalan\source\repos\Prog-8\bin\Debug\net6.0\Prog-8.exe
+C:\Users\lalan\source\repos\Prog-8\bin\Debug\net6.0\Prog-8.deps.json
+C:\Users\lalan\source\repos\Prog-8\bin\Debug\net6.0\Prog-8.runtimeconfig.json
+C:\Users\lalan\source\repos\Prog-8\bin\Debug\net6.0\Prog-8.dll
+C:\Users\lalan\source\repos\Prog-8\bin\Debug\net6.0\Prog-8.pdb
+C:\Users\lalan\source\repos\Prog-8\obj\Debug\net6.0\Prog-8.csproj.AssemblyReference.cache
+C:\Users\lalan\source\repos\Prog-8\obj\Debug\net6.0\Prog-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalan\source\repos\Prog-8\obj\Debug\net6.0\Prog-8.AssemblyInfoInputs.cache
+C:\Users\lalan\source\repos\Prog-8\obj\Debug\net6.0\Prog-8.AssemblyInfo.cs
+C:\Users\lalan\source\repos\Prog-8\obj\Debug\net6.0\Prog-8.csproj.CoreCompileInputs.cache
+C:\Users\lalan\source\repos\Prog-8\obj\Debug\net6.0\Prog-8.dll
+C:\Users\lalan\source\repos\Prog-8\obj\Debug\net6.0\refint\Prog-8.dll
+C:\Users\lalan\source\repos\Prog-8\obj\Debug\net6.0\Prog-8.pdb
+C:\Users\lalan\source\repos\Prog-8\obj\Debug\net6.0\Prog-8.genruntimeconfig.cache
+C:\Users\lalan\source\repos\Prog-8\obj\Debug\net6.0\ref\Prog-8.dll
